@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-arc-326202",
+  "private_key_id": "9ae1376f0fc45896b155b9d395f4ed38e9cec9a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCW3C8bd/K98kEp\n1pWpYGvjWBnlJH1D+6d+i4Dutr4/+qC23AnmXdJFskOlG4vcrmRyEltZiaKyAP+n\n6JBkbL3SKYawh4ie/q1Z/p4G7CtXD+X4NYE3cmVhEJiDaeKfLsdoKOO0aQiZAwr2\nsYhtE2mbhOi3cB8/SRDKS5ZzGTuOVNL50uEBNHc6/ogXQvXoynTCeYop5EF+imw2\nRnnXLjtbUVhsuzV3z5AhM9jE0LVfqW3IXuWl44oXLrW8ywQmvNSh2W9LvrCW/rKY\npXjRUFUzF/4HcPZBKqP/9LrjnlWXPozcYfVcnfnD1mvAEmBGKIUtu+JrS1R9dWpK\n6T/GY2gTAgMBAAECggEAQysi8ER+OFNR7ypjNWhAcRdLZEpUWb4E6+N6Ew8bcwoI\nn5Il+ENCuZRu6Ob0ZVviTiXdNWcCIOYv7hcunwAJnjauCRA3ZK85CM5Elwl1HIzw\nFAzijQjqmYaVmUE+TSi7USWPiMaRNOt1aLRP7VzM0xkgsngB+Z/zEVcJVBLigPKV\nd19T8tOkuV6DBOkA4ppiDS4hLiVIeq3fz+R4Nt5m8Vb+94DdFpr91ib2jGT8MnFO\nddWYi6vDQZf51Vj457fJfiVUwkr8uAAIXUkZWa3/gjxaxzKEDVflAANq7f9rGWLT\n6S9bgsG920Wfaep8n425Bb4mGstnIZ6q/AOfVmSSsQKBgQDJGbxQUPWHmsT7XPUe\nhZj2Af2VGqsfXsGm/0kOkT6BD11NG66oEmbFpdof6+aJro8ZzLcC7kkiN26zFAyG\nEghT1lQEN7IhBLM5aG7bDCDKokUGKnRKZqfxFGUDjt7WZ3Yw8Ov9qSTUkZDTkZNC\nU35wikX0dFG+2WtUg92Y7sJ0owKBgQDAC06gxv1hsixBOb6cTGlBupCmeGpHtq+e\nEOpxBWdOCWHVst0lJLtkVDA0gyszqtfT0lnHM6wVpc8quDIQrAeEuL02eh2CvZs3\nBrYu2gGLsgccsojulZnsVDW3RlbZJ2wfeMPs3XSfJjaRjrWqHkg35yz9ZJ+UgAN/\n8z+u1+kF0QKBgGWZ6gmODa64ZCM3IOSNzO0lrk+hzKkpv582xVtlyHV+JL5raP+j\nZGchVyXfkncnSUdYpXIGn854wSYa0AUAoVJyK7qBxS5naIFtoOxsoTifaU4nLt/U\nI69qhWqZyT37wbwSTLi4t1HqRYiOuR6+flgvlA5golhREqf9g3zbzEUPAoGATs+V\nGffvnfsvnCjlZ2EYRQgaOqbp/rojAfwxKeasyWKiSr+Xb5nOaVL/YV1/CjoPTndh\nrpUvBsc/6Gkk6qCeiUIDLGsa1z+WhhN0CnAe+EQ8FPPTrA2q2EiKrsbn9z/taFD4\nHqmXJYTaGgv103WP75koZmi38IpEZWre9JLYpzECgYATw24ArNynn8J/9rx1NSP6\nlNtjipoWtb+MWovHohiivHbjhv8alcCVArFpnaAReUft1JVWUo7lg+QLyPqLWPTf\nJthB2irK5y5tZpFB9nqLWc1q/KI+Ni7LiDv9EdLMigQkCwebUkO2/jQh1G9Qv/jk\nw43FM59KG2hB8Smt6hRjqA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "adinkra-service-account@smart-arc-326202.iam.gserviceaccount.com",
+  "client_id": "109279668036639597457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adinkra-service-account%40smart-arc-326202.iam.gserviceaccount.com"
+}
